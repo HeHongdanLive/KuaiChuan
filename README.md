@@ -1,4 +1,4 @@
-# KuaiChuan(仿茄子快传)
+# KuaiChuan(仿茄子快传)_HHD
 [English](https://github.com/mayubao/KuaiChuan/blob/master/README_EN.md)
 
 仿茄子快传的一款文件传输应用， 涉及到Socket通信，包括TCP，UDP通信。（喜欢的给一个star, 有帮助的给一个fork， 欢迎Star和Fork ^_^）
